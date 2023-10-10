@@ -1,0 +1,76 @@
+.a {
+  display: block; /* block 요소로 설정 */
+  color: #4b72d6;
+  font-size: 16px;
+  font-style: normal;
+
+  line-height: normal;
+  margin-top: 1rem !important;
+  text-align: right; /* 텍스트를 오른쪽 정렬 */
+}
+
+.box {
+  border-radius: 0 0 3px 3px;
+}
+
+input {
+  font-family: "Noto Sans KR", "Noto Sans Korean", "Nanum Gothic", sans-serif !important;
+  -webkit-appearance: none;
+  -webkit-border-radius: 0;
+  border: 0;
+  outline: none;
+  font-size: 10px;
+}
+input::placeholder {
+  color: #d9d9d9;
+}
+.dust {
+  width: 100%;
+  margin-top: 1rem;
+  box-sizing: border-box;
+  position: relative;
+  margin-right: 2rem;
+  display: row; /* 플렉스 컨테이너로 설정 */
+  align-items: center; /* 수직 중앙 정렬 */
+  justify-content: center; /* 수평 중앙 정렬 */
+}
+.dust label {
+  display: inline-block;
+  position: absolute;
+  top: -5px;
+  left: 14px;
+  padding: 10px;
+  background: white;
+  font-size: 14px;
+  color: #888;  
+  font-weight: 600 !important;
+}
+.dust.ver2 label {
+  top: initial;
+  bottom: -20px;
+}
+.dust label span {
+  color: #da4841;
+  vertical-align: -1px;
+}
+.dust input {
+  width: 100%;
+  border: 1px solid #dddddd !important;
+  font-size: 1rem;
+  line-height: 1.45;
+  letter-spacing: -0.04rem;
+  border-radius: 8px;
+  padding: 16px;
+  margin-top: 12px;
+}
+
+.succesbtn{
+  width: 100%;
+  margin-top: 2rem;
+  height: 3rem;
+  border-radius: 8px;
+  background: #ED7B7B;
+  color: black;
+  border-color: white;
+}
+

@@ -1,0 +1,234 @@
+.signupmain {
+    text-align: center;
+}
+
+.signupbackbtn {
+    position: absolute;
+    top:1rem;
+    left:1rem;
+}
+
+.stepper {
+    position: absolute;
+    top:5rem;
+    width: 18rem;
+}
+
+.signupmaintext{
+    position: relative;
+    top:9rem;
+    font-family: 'puradack';
+    font-size: 1.5rem;
+}
+
+.inputbox {
+    width:110%;
+}
+
+
+.id {
+    position: absolute;
+    top:13rem;
+    width:47.3%;
+}
+
+.username {
+    position: absolute;
+    top:17rem;
+    width:74.6%;
+}
+
+.pw {
+    position: absolute;
+    top:21rem;
+    width:74.6%;
+}
+
+.pw2 {
+    position: relative;
+    width:93.2%;
+}
+
+.robotnumber {
+    position: relative;
+    width:74%;
+}
+
+.signupbox {
+    display: inline-block;
+    width: 80vw;
+    margin-left:-0.5rem;
+}
+
+.pwshowbutton1 {
+    position: absolute;
+    top: 0.5rem;
+    right: -1rem;
+  }
+
+.passwordchecktext {
+    position: relative;
+    top:51vh;
+    font-family: 'puradack';
+    font-size: 0.8rem;
+    margin-left: -20vw;
+    color:#ED7B7B;
+}
+
+.passwordchecktext2 {
+    position: relative;
+    top:49vh;
+    font-family: 'puradack';
+    font-size: 0.8rem;
+    margin-left: -24vw;
+    color:#ED7B7B;
+}
+
+.passwordmismatchchecktext {
+    position: relative;
+    top:53vh;
+    font-family: 'puradack';
+    font-size: 0.8rem;
+    margin-left: -26vw;
+    color:#ED7B7B;
+}
+
+.corporatenamebox{
+    border: 1px solid rgb(128,128,128, 0.5);
+    position: relative;
+    border-radius: 0.2rem;
+    width:102.3%;
+    height: 3.5rem;
+    text-align: start;
+}
+
+.corporatename {
+    padding-left: 1rem;
+    position: relative;
+    color:gray;
+}
+
+.corporatename2 {
+    padding-left: 1rem;
+    position: relative;
+}
+
+.signupbtn {
+    margin-top: 25rem;
+    width:15.5rem;
+    height:3rem;
+    background: #1E232C;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+.signupbtn2 {
+    margin-top: 25rem;
+    width:15.5rem;
+    height:3rem;
+    background: #8391A1;
+    border-radius: 8px;
+    border: 1px solid #8391A1;
+    margin-bottom: 1rem;
+}
+
+.signupbtn3 {
+    margin-top: 5rem;
+    width:15.5rem;
+    height:3rem;
+    background: #1E232C;
+    border-radius: 8px;
+}
+
+.idcheckbtn {
+    position: absolute;
+    top:3.7rem;
+    margin-top: 9.3rem;
+    width:30%;
+    margin-left:20%;
+    height:3.5rem;
+    background: #1E232C;
+    border-radius: 0 8px 8px 0;
+    z-index: 10;
+}
+
+.incheckbtn2 {
+    position: absolute;
+    top:3.7rem;
+    margin-top: 9.3rem;
+    width:30%;
+    margin-left:20%;
+    height:3.5rem;
+    background: #8391A1;
+    border-radius: 0 8px 8px 0;
+    border: 1px solid #8391A1;
+    z-index: 2;
+}
+
+.signuptext {
+    color:#ffffff;
+}
+
+.idchecktexthead {
+    font-weight: bold;
+    font-family: 'puradack';
+    font-size:1.5rem;
+}
+
+.idchecktext {
+    font-family: 'puradack';
+}
+
+.robotcheckbtn {
+    position: absolute;
+    margin-top: 9.3rem;
+    width:30%;
+    margin-left:20%;
+    height:3.5rem;
+    background: #1E232C;
+    border-radius: 0 8px 8px 0;
+    z-index: 10;
+}
+
+.robotcheckbtn2 {
+    position: absolute;
+    margin-top: 9.3rem;
+    width:30%;
+    margin-left:20%;
+    height:3.5rem;
+    background: #8391A1;
+    border-radius: 0 8px 8px 0;
+    border: 1px solid #8391A1;
+    z-index: 2;
+}
+
+.cornamebox{
+    border: 1px solid rgb(128,128,128, 0.5);
+    border-radius: 0.2rem;
+    width:15.3rem;
+    height: 3.5rem;
+}
+
+.partnamebox{
+    border: 1px solid rgb(128,128,128, 0.5);
+    margin-top:1rem;
+    border-radius: 0.2rem;
+    width:15.3rem;
+    height: 3.5rem;
+}
+
+.signupbtn4 {
+    margin-top: 2rem;
+    width:15.5rem;
+    height:3rem;
+    background: #1E232C;
+    border-radius: 8px;
+}
+
+.allid {
+    width:80%
+}
+
+.allrobotnumber {
+    width:80%
+}

@@ -1,0 +1,70 @@
+.loginmain {
+    text-align: center;
+}
+
+.loginbtn {
+    margin-top: 3rem;
+    width:17rem;
+    height:3rem;
+    background: #1E232C;
+    border-radius: 8px;
+}
+
+.logintext {
+    color:#ffffff;
+    font-family:'puradak';
+}
+
+.loginmaintext{
+    position: relative;
+    top:5rem;
+    font-family: 'puradack';
+    font-size: 1.5rem;
+}
+
+.logincontainer {
+    display: inline-block;
+    margin-top: 8rem;
+    width: 20rem;
+    margin-left:-0.5rem;
+}
+
+.pwcontainer {
+    margin-top: 1.5rem;
+    position: relative;
+  }
+
+.pwshowbutton {
+    position: absolute;
+    top: 0.5rem;
+    right: 2rem;
+  }
+
+.loginbackbtn {
+    position: absolute;
+    top:1rem;
+    left:1rem;
+}
+
+.inputbox {
+    width:80%;
+}
+
+.signupcontainer {
+    margin-top: 8rem;
+    display: inline-block;
+    width: 16rem;
+    font-size: 0.9rem;
+}
+
+.signupflexcontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.autologincontainer {
+    font-size: 0.2rem;
+    margin-left: 2rem;
+    margin-top: 0.5rem;
+}

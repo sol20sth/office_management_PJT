@@ -1,0 +1,18 @@
+.footer {
+  position: absolute;
+  width: 100%;
+}
+
+.grid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hr {
+  border: 0.08rem solid black;
+}
+
+.active {
+  color: #ed7b7b;
+}

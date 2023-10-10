@@ -1,0 +1,23 @@
+/* 저장한 폰트 불러와서 font-family로 사용할 이름 지정 */
+@font-face {
+    font-family: "puradak";
+    src: url("../public/font/Puradak\ Gentle\ Gothic.ttf");
+  }
+.css-q0jhri-MuiInputBase-root-MuiInput-root:before{
+  border-bottom: 0px solid rgba(0, 0, 0, 0.42) !important;
+}
+
+.App{
+  height: 90vh;
+}
+.total-content-container{
+  height: 92%;
+}
+
+.footer {
+  height: 8%;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  border-top: 3px solid black; /* 상단에만 경계선을 만듭니다. */
+}

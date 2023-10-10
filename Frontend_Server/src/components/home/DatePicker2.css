@@ -1,0 +1,76 @@
+.react-datepicker__day-name {
+  width: 28px;
+}
+.custom-datepicker{
+  border: 1px solid blue;
+}
+.react-datepicker__week{
+  display: row;
+}
+.custom-day {
+  width: 2.1rem;
+  height: 2.1rem;
+  line-height: 1.8;
+  border: 0.01rem solid rgb(225, 168, 168);
+  border-radius: 20px;
+  background: #ED7B7B;
+  color: white;
+  font-size: 0.6rem;
+  display: table-cell;
+  vertical-align: middle; /* 세로 중앙 정렬 */
+
+  /* margin: 0.2rem auto; */
+}
+.gray-day {
+  color:#cccccc !important;
+  background-color: #ffffff !important;
+  border-radius: 20px !important; 
+}
+
+.css-q0jhri-MuiInputBase-root-MuiInput-root{
+  width: 100%;
+}
+.react-datepicker-wrapper{
+  width: 100%;
+}
+
+#datepicker{
+  text-align: center;
+}
+
+.MuiInput-input{
+  text-align: center;
+}
+.selected{
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  background: #3aa5f6;
+}
+
+.react-datepicker__day--keyboard-selected, .react-datepicker__month-text--keyboard-selected, .react-datepicker__quarter-text--keyboard-selected, .react-datepicker__year-text--keyboard-selected{
+  background: #ED7B7B;
+}
+.react-datepicker__header {
+  background-color: rgb(230, 101, 101);
+}
+
+.react-datepicker__month-container{
+  background-color: rgb(246, 216, 216);
+}
+.react-datepicker{
+  margin: auto;
+}
+.react-datepicker__tab-loop{
+  width: 100%;
+}
+.react-datepicker-popper {
+  width: 100%;
+  background-color: white;
+}
+
+/* 2번째 div를 좌우 정렬하고 크기를 동일하게 */
+.react-datepicker-popper > div:nth-child(1) {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}

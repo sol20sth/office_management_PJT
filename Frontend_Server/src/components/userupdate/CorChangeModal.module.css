@@ -1,0 +1,99 @@
+.corchecktexthead {
+    font-weight: bold;
+    font-family: 'puradack';
+    font-size:1.5rem;
+}
+
+.btn {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+
+.closebtn {
+    width:6.5rem;
+    height:3rem;
+    background: #4B72D6;
+    border-radius: 15px;
+}
+
+.okbtn {
+    width:6.5rem;
+    height:3rem;
+    background: #ED7B7B;
+    border-radius: 15px;
+}
+
+.signuptext {
+    color:#ffffff;
+}
+
+.username {
+    position: relative;
+    left:-1rem;
+}
+
+.inputbox {
+    width:110%;
+}
+
+.corporatenamebox{
+    border: 1px solid rgb(128,128,128, 0.5);
+    position: relative;
+    top: -2rem;
+    border-radius: 0.2rem;
+    width:77vw;
+    height: 3.5rem;
+    text-align: start;
+}
+
+.robotnumbernamebox{
+    border: 1px solid rgb(128,128,128, 0.5);
+    position: relative;
+    top:-1rem;
+    border-radius: 0.2rem;
+    width:77vw;
+    height: 3.5rem;
+    text-align: start;
+}
+
+.corporatename {
+    padding-left: 1rem;
+    position: relative;
+    color:gray;
+}
+
+.corporatename2 {
+    padding-left: 1rem;
+    position: relative;
+}
+
+.cornamebox{
+    border: 1px solid rgb(128,128,128, 0.5);
+    border-radius: 0.2rem;
+    width:15.3rem;
+    height: 3.5rem;
+}
+
+.partnamebox{
+    border: 1px solid rgb(128,128,128, 0.5);
+    margin-top:1rem;
+    border-radius: 0.2rem;
+    width:15.3rem;
+    height: 3.5rem;
+}
+
+.signupbtn4 {
+    margin-top: 2rem;
+    width:15.5rem;
+    height:3rem;
+    background: #1E232C;
+    border-radius: 8px;
+}
+
+.alertstyle {
+    display: flex;
+    position: absolute;
+    top:0rem;
+    left:0rem;
+}

@@ -1,0 +1,119 @@
+.votepagemaind{
+    text-align: center;
+}
+
+.voteheadertext {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 3rem;
+}
+
+.votepagetext {
+    border-bottom: 0.1rem solid black;
+    height: 2rem;
+}
+
+.othertext {
+    opacity: 0.2;
+}
+.container{
+    overflow-y: scroll;
+    justify-content: center;
+    align-items: center;
+  }
+.btnbox{
+  height: 3rem;
+}
+.btn{
+  height: 3rem;
+  width: 17rem;
+  border-radius: 8px;
+  background: #ED7B7B;
+}
+.okbtn{
+  height: 3rem;
+  width: 8rem;
+  border-radius: 8px;
+  background: #ED7B7B;
+  margin:auto;
+}
+
+.okoffbtn{
+  height: 3rem;
+  width: 8rem;
+  border-radius: 8px;
+  background: gray;
+  margin:auto;
+}
+
+.newbox {
+  margin-bottom: 1rem;
+  height: 3rem;
+  border-radius: 1rem;
+  box-shadow: 5px 5px 10px 5px #eaeaea;
+  position: relative;
+  left: 3vw;
+  text-align: start;
+  width: 94vw; 
+}
+
+.textbox {
+  margin-bottom: 1rem;
+  width: 92vw; 
+  border-radius: 1rem;
+  box-shadow: 5px 5px 10px 5px #eaeaea;
+  position: relative;
+  left:3vw;
+  padding-left: 1rem;
+  padding-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+}
+
+
+.profile {
+  margin-left: 1rem;
+  position: relative;
+}
+
+.new {
+  font-size: 2.6vw;
+  margin-left: 1rem;
+}
+.timename {
+  font-size: 3vw;
+  margin-right: 3rem;
+  margin-left: 0.4rem;
+  margin-bottom: 0;
+  text-align: center;
+  width: 100%;
+}
+.time {
+  font-size:3vw;
+  margin-right: 3rem;
+  margin-top: 0;
+  margin-left: 0.4rem;
+  width: 100%;
+  text-align: center;
+}
+
+.arrowdown{
+  font-size: 0.8rem;
+
+}
+
+.arrowright{
+  font-size: 0.8rem;
+
+}
+
+.titletext {
+  display: flex;
+  align-items: center;
+}
+
+.votebox{
+  margin-top: 1rem;
+}

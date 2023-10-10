@@ -1,0 +1,46 @@
+.maintext {
+    color: #ffffff;
+    position: relative;
+    top: -10rem;
+    left:2rem;
+    width: 7rem;
+    margin: 0;
+    font-size: 1.3rem;
+}
+
+.usertext{
+    color: #ffffff;
+    position: relative;
+    top: -8rem;
+    left:2rem;
+    width: 17rem;
+    margin: 0;
+    font-size: 1.3rem;
+}
+
+.username, .welcome {
+    display: inline; /* p 태그를 인라인 요소로 변경 */
+    margin: 0; /* 기본 마진 제거 */
+}
+
+.titletext {
+    color: #4B72D6;
+    font-size: 1.3rem;
+    position: relative;
+    top:-3rem;
+    left:1rem;
+    width:10rem;
+}
+
+.contnettext {
+    position: relative;
+    top:-3rem;
+    left:2rem;
+    width: 9rem;
+}
+
+.alertstyle {
+    position: absolute;
+    top:0rem;
+    z-index: 10000;
+}

@@ -1,0 +1,45 @@
+.box {
+  /* border: 1px solid black; */
+  margin-bottom: 1.5rem;
+  text-align: center;
+  /* padding: auto; */
+  display: flex; /* 플렉스 컨테이너로 설정 */
+  align-items: center; /* 수직 중앙 정렬 */
+  justify-content: center; /* 수평 중앙 정렬 */
+  display: inline-flex;
+  height: 64px;
+  padding: 0px 15px 0px 17px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+}
+.container{
+  margin-top: 1rem;
+  background-color: #fff;
+  padding-bottom: 5%;
+}
+.past{
+  background-color: rgb(165, 165, 165) !important;
+}
+.selected{
+  background-color: white !important;
+}
+
+.btn{
+  width: 90%;
+  height: 3rem;
+  color: #000;
+  font-family: Outfit;
+  font-size: 0.3rem;
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+  border-radius: 12px;
+  border: 1px solid rgba(0, 0, 0, 0.00);
+  background: #ED7B7B;
+  box-shadow: 3px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+.postDay{
+  background-color: black;
+}

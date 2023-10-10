@@ -1,0 +1,60 @@
+.main {
+  text-align: center;
+  height: 100%;
+}
+
+.logo {
+  width: 5.5rem;
+  height: 6rem;
+  margin-top: 1rem;
+}
+
+.mainimage {
+  width: 19.8rem;
+  /* height:19.5rem; */
+}
+
+.loginbtn {
+  margin-top: 1rem;
+  width: 18rem;
+  height:3rem;
+  background: #1e232c;
+  border-radius: 8px;
+}
+
+.logintext {
+  color: #ffffff;
+}
+
+.signuptext {
+  font-family: "puradak";
+}
+
+.signupbtn {
+  margin-top: 1rem;
+  width: 18rem;
+  height:3rem;
+  background: #ffffff;
+  border-radius: 8px;
+}
+
+.video {
+  height: 45%;
+}
+.logodiv {
+  height: 15%;
+}
+.btndiv {
+  height: 8%;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+}
+.btnsign {
+  height: 8%;
+}
+.mainVideo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* 화면에 꽉 차도록 비디오 크기 조정 */
+  z-index: -1; /* 다른 내용 위에 렌더링되도록 z-index 설정 */
+}

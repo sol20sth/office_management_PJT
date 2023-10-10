@@ -1,0 +1,190 @@
+.container {
+  /* height: 70vh; */
+  height: 93%;
+}
+.map {
+  margin-top: 7vh;
+  height: 45%;
+  border-radius: 12px;
+  background: #f7f7f7;
+  box-shadow: 0px -3px 2px 2px rgba(0, 0, 0, 0.25);
+}
+.fourty {
+  height: 30%;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  align-items: center; /* 수직 중앙 정렬 */
+  justify-content: center; /* 수평 중앙 정렬 */
+}
+.fourty2 {
+  height: 50%;
+  margin-top: 1rem;
+  align-items: center; /* 수직 중앙 정렬 */
+  justify-content: center; /* 수평 중앙 정렬 */
+}
+
+.title {
+  margin-top: 2.8rem;
+  color: #000;
+  font-size: 1.3rem;
+  font-style: normal;
+  line-height: normal;
+  background-image: linear-gradient(to bottom, transparent 70%, #ed7b7b 50%);
+  background-origin: border-box;
+  background-clip: content-box, border-box;
+  display: inline;
+}
+
+.my {
+  margin-top: 1rem;
+  margin-bottom: 0.4rem;
+  height: 80%;
+  display: flex; /* 플렉스 컨테이너로 설정 */
+  align-items: center; /* 수직 중앙 정렬 */
+  justify-content: center; /* 수평 중앙 정렬 */
+  border-radius: 12px;
+  border: 1px solid rgba(0, 0, 0, 0);
+  background: #f7f7f7;
+  box-shadow: 3px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.my p {
+  font-size: 1.4rem;
+}
+
+.office {
+  margin-top: 1.5rem;
+  margin-left: 0.9rem; /* 좌측 여백 설정 */
+  margin-right: 0.9rem; /* 우측 여백 설정 */
+  height: 80%;
+  display: flex; /* 플렉스 컨테이너로 설정 */
+  align-items: center; /* 수직 중앙 정렬 */
+  border-radius: 12px;
+  border: 1px solid rgba(0, 0, 0, 0);
+  background: #f7f7f7;
+  box-shadow: 3px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.a {
+  display: block; /* block 요소로 설정 */
+  color: #4b72d6;
+  font-size: 16px;
+  font-style: normal;
+
+  line-height: normal;
+  margin-top: 1rem !important;
+  text-align: right; /* 텍스트를 오른쪽 정렬 */
+}
+
+.btn {
+  /* margin-top: 3rem; */
+  width: 100%;
+  height: 2.7rem;
+  border-radius: 8px;
+  background: #ed7b7b;
+  margin-top: 6vh;
+}
+
+.officebtn {
+  /* margin-top: 3rem; */
+  height: 8%;
+  border-radius: 8px;
+  background: #ed7b7b;
+  position: relative;
+  bottom: 10vh;
+  width: 85%;
+  left: 8%;
+  margin: 0 auto;
+  padding: 0;
+  margin-top: 1rem;
+}
+
+.swiper {
+  height: 70%;
+  width: 95%;
+}
+
+.booking {
+  margin-top: 1rem;
+  margin-bottom: 0.4rem;
+  margin-left: 0.2rem;
+  margin-right: 0.2rem;
+  height: 85%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 12px;
+  border: 1px solid rgba(0, 0, 0, 0);
+  background: #f7f7f7;
+  box-shadow: 3px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* 왼쪽 정렬 */
+  justify-content: flex-start; /* 상단 정렬 */
+  text-align: center; /* 중앙 정렬 */
+}
+
+.bookingdate {
+  font-size: 0.85rem;
+  margin: 0 auto;
+  margin-left: 0.5rem;
+  margin-top: 1rem;
+}
+
+.bookinghour {
+  font-size: 1.35rem;
+  margin: 0 auto;
+  margin-top: 9vh;
+}
+
+.nowbookinghour {
+  font-size: 1.35rem;
+  margin: 0 auto;
+  margin-top: 4vh;
+}
+
+.notbooking {
+  font-size: 1.5rem;
+  margin: auto;
+}
+
+
+.officeNameChoice {
+  display: flex; /* 요소들을 수평으로 정렬하기 위해 flex 사용 */
+  align-items: center; /* 요소들을 세로 중앙 정렬 */
+  height: 4%;
+  margin: 0 auto;
+  margin-top: 1rem;
+  justify-content: flex-end; /* 내부 요소를 오른쪽으로 정렬 */
+  margin-right: 0.3rem;
+}
+
+.officename,
+.decreasebtn,
+.increasebtn {
+  font-size: 0.8rem;
+}
+
+.deletebox {
+  display: flex;
+  width: 100%;
+  margin-top: 3.5vh;
+  justify-content: end;
+}
+
+.deletebtn {
+  color: red;
+  border: red 1px solid;
+  background-color: #fff;
+  margin-right: 4vw;
+}
+.officeName{
+  margin : 0 1rem 0 0;
+  font-size: 0.8rem;
+}
+
+
+.officeBox{
+  width: 100%;
+  display: flex;
+  justify-content: end;
+}

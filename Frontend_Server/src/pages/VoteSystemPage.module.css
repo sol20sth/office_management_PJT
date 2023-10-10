@@ -1,0 +1,19 @@
+.votepagemaind{
+    text-align: center;
+    height: 85vh;
+}
+
+.voteheadertext {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 3rem;
+}
+
+.votepagetext {
+    border-bottom: 0.1rem solid black;
+    height: 2rem;
+}
+
+.othertext {
+    opacity: 0.2;
+}

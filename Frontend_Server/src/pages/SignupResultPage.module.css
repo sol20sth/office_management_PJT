@@ -1,0 +1,20 @@
+.result {
+    text-align: center;
+    margin-top: 13rem;
+}
+
+.resulttext{
+    font-size: 1.5rem;
+}
+
+.loginbtn {
+    margin-top: 1rem;
+    width:18rem;
+    height:3rem;
+    background: #1E232C;
+    border-radius: 8px;
+}
+
+.logintext {
+    color:#ffffff;
+}

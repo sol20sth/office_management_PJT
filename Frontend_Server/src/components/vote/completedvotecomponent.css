@@ -1,0 +1,40 @@
+.recharts-legend-wrapper {
+  margin-left: 1rem !important;
+  padding-bottom: 1rem;
+}
+.surface:hover {fill: rgba(255, 255, 255, 0.1) !important;}
+
+.cvp{
+  margin: 0 auto;
+  padding-top: 1rem;
+}
+
+.recharts-tooltip-wrapper {
+  position: absolute !important;
+  top: 43% !important;
+  left: 50% !important;
+  transform: translate(-50%, -50%) !important;
+  pointer-events: none;
+  visibility: visible !important;
+}
+
+.recharts-wrapper{
+  padding-bottom: 1rem;
+}
+
+.piecontainer{
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  margin-left: 3vw;
+  border-radius: 1rem;
+  box-shadow: 5px 5px 10px 5px #eaeaea;
+  width:93vw
+}
+
+.piechart {
+  display: flex;
+  justify-content: center;
+}
+.nondiv{
+  height: 20%;
+}

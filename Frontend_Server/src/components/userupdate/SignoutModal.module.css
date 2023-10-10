@@ -1,0 +1,32 @@
+.signouttexthead {
+    font-weight: bold;
+    font-size:1.5rem;
+}
+
+.btn {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+
+.closebtn {
+    width:6.5rem;
+    height:3rem;
+    background: #4B72D6;
+    border-radius: 15px;
+}
+
+.okbtn {
+    width:6.5rem;
+    height:3rem;
+    background: #ED7B7B;
+    border-radius: 15px;
+}
+
+.signuptext {
+    color:#ffffff;
+}
+
+.inputbox {
+    width:110%;
+}

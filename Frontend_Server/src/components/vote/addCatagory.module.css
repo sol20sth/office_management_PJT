@@ -1,0 +1,47 @@
+.box {
+  border: 0.01rem solid black;
+  font-weight: 400;
+  font-size: 1rem;
+  width: 17rem;
+  margin-left: 1.5rem auto;
+  line-height: 1.4375em;
+  letter-spacing: 0.00938em;
+  color: rgba(0, 0, 0, 0.87);
+  box-sizing: border-box;
+  position: relative;
+  cursor: text;
+  display: inline-flex;
+  align-items: center;
+  /* padding: 4px 0 5px; */
+  position: relative;
+  border-radius: 4px;
+  padding: 16.5px 0.1rem;
+
+  /* height: 6rem; */
+}
+.addOne{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon {
+  margin-right: 1rem;
+}
+
+
+
+.input{
+  font-family: "puradak" !important;
+
+  max-width: 17rem;
+  width: 17rem;
+  height: 3rem;
+  cursor: text;
+  box-sizing: border-box;
+  border-radius: 4px;
+  padding: 0.1rem 0.3rem;
+  display: table-row;
+  border: 0.01rem solid black;
+  font-size: 1.2rem;
+}

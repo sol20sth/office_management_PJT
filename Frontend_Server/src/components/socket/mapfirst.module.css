@@ -1,0 +1,113 @@
+.doorbox {
+    position: relative;
+    top:0%;
+    left:50%;
+    width:15%;
+    height: 2vh;
+    background-color: black;
+  }
+  
+  .selectbox {
+    width:10%;
+    height:15%;
+    border: 1px solid black;
+    background-color: #ED7B7B;
+  }
+  
+  .notselectbox {
+    width:10%;
+    height:15%;
+    border: 1px solid black;
+    opacity: 0.2;
+  }
+  
+  .box1 {
+    position: absolute;
+    top:20%;
+    left:17%;
+    
+  }
+  .box2 {
+    position: absolute;
+    top:35%;
+    left:17%;
+  }
+  .box3 {
+    position: absolute;
+    top:50%;
+    left:17%;
+  }
+  .box4 {
+    position: absolute;
+    top:20%;
+    left: 45%;
+  }
+  .box5 {
+    position: absolute;
+    top:35%;
+    left:45%;
+  }
+  .box6 {
+    position: absolute;
+    top:50%;
+    left:45%;
+  }
+  .box7 {
+    position: absolute;
+    top:20%;
+    left:75%;
+  }
+  .box8 {
+    position: absolute;
+    top:35%;
+    left:75%;
+  }
+  .box9 {
+    position: absolute;
+    top:50%;
+    left:75%;
+  }
+  
+  .explbox2{
+    position: absolute;
+    top:85%;
+    left:70%;
+    width:5vw;
+    height:2.5vh;
+    background-color: #ED7B7B;
+  }
+  
+  .expltext2 {
+    position: absolute;
+    top:82%;
+    left:78%;
+    font-size: 0.8rem;
+  }
+  
+  .airpurifier1 {
+    position: absolute;
+    top:20%;
+    left:65%;
+    font-size: 1.5rem;
+  }
+  
+  .airpurifier2 {
+    position: absolute;
+    top:68%;
+    left:35%;
+    font-size: 1.5rem;
+  }
+  
+  .aircon1 {
+    position: absolute;
+    top:-2%;
+    left:35%;
+    font-size: 1.5rem;
+  }
+  
+  .aircon2 {
+    position: absolute;
+    top:68%;
+    left:65%;
+    font-size: 1.5rem;
+  }
